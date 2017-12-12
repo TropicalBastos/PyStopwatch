@@ -2,7 +2,7 @@
 
 Easy to use threaded stopwatch for python
 
-###Examples:
+### Examples:
 
 ```python
 import time
